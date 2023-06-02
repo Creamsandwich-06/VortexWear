@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cap &#8211; VortexWear</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Unleash Your Unique Style and Conquer the Streets in Trendsetting Apparel</description>
+	<lastBuildDate>Wed, 31 May 2023 14:05:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2023/05/Asset-2.png</url>
+	<title>cap &#8211; VortexWear</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>One Piece Straw Hat</title>
+		<link>./../../../product/one-piece-straw-hat/index.html</link>
+					<comments>./../../../product/one-piece-straw-hat/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Administrator]]></dc:creator>
+		<pubDate>Wed, 31 May 2023 14:05:08 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost/bluewave/?post_type=product&#038;p=324</guid>
+
+					<description><![CDATA[Embrace the spirit of adventure and become a true member of the crew with this remarkable piece of headwear.]]></description>
+										<content:encoded><![CDATA[<div class="group w-full text-gray-800 dark:text-gray-100 border-b border-black/10 dark:border-gray-900/50 bg-gray-50 dark:bg-[#444654]">
+<div class="flex p-4 gap-4 text-base md:gap-6 md:max-w-2xl lg:max-w-xl xl:max-w-3xl md:py-6 lg:px-0 m-auto">
+<div class="relative flex w-[calc(100%-50px)] flex-col gap-1 md:gap-3 lg:w-[calc(100%-115px)]">
+<div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap break-words">
+<div class="markdown prose w-full break-words dark:prose-invert dark">
+<p>Set sail with the iconic symbol of the Straw Hat Pirates &#8211; our One Piece Straw Hat. Crafted with meticulous attention to detail, this high-quality replica captures the essence of Monkey D. Luffy&#8217;s legendary headpiece. Made from durable materials, it provides both style and protection from the sun&#8217;s rays as you embark on your own epic quests. Whether you&#8217;re cosplaying as Luffy or simply showcasing your love for the series, this Straw Hat is a must-have accessory for any devoted One Piece fan. Embrace the spirit of adventure and become a true member of the crew with this remarkable piece of headwear.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/one-piece-straw-hat/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
